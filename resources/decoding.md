@@ -2,6 +2,7 @@
 
 - [**Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models**](https://arxiv.org/abs/2402.07754) (NIPS 2024, HKU)
 - [**Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models**](https://arxiv.org/abs/2505.10446) (NIPS 2025, ZJU)
+- [**Path Planning for Masked Diffusion Model Sampling**](https://arxiv.org/abs/2502.03540) (2025.3, Duke University)
 - [**Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models**](https://arxiv.org/abs/2503.09573) (ICLR 2025, Cornell Tech)
 - [**Encoder-Decoder Diffusion Language Models for Efficient Training and Inference**](https://arxiv.org/abs/2510.22852) (NIPS 2025, Cornell Tech)
 - [**KLASS: KL-Guided Fast Inference in Masked Diffusion Models**](https://arxiv.org/abs/2511.05664) (NIPS 2025, KAIST AI)

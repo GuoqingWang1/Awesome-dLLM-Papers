@@ -43,7 +43,7 @@ If you find this repo helpful, please consider giving it a ⭐ — it helps othe
 | [📋 Training Recipe](resources/training-recipe.md) | Pre-training & SFT strategies | 17 |
 | [🏗 Training Framework](resources/training-framework.md) | Training infrastructure & tools | 3 |
 | [🚀 Inference Framework](resources/inference-framework.md) | Inference optimization & KV cache | 6 |
-| [🎯 Decoding](resources/decoding.md) | Decoding strategies & algorithms | 19 |
+| [🎯 Decoding](resources/decoding.md) | Decoding strategies & algorithms | 20 |
 | [🎓 Reinforcement Learning](resources/reinforcement-learning.md) | RL-based post-training methods | 9 |
 | [🔬 Theoretical Exploration](resources/theoretical-exploration.md) | Scaling laws & theoretical insights | 6 |
 | [📦 Others](resources/others.md) | Multimodal, long context, etc. | 3 |
