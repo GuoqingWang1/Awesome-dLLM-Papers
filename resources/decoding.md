@@ -10,6 +10,7 @@
 - [**Wide-In, Narrow-Out: Revokable Decoding for Efficient and Effective DLLMs**](https://arxiv.org/abs/2507.18578) (2025.7, SJTU)
 - [**Beyond Fixed: Training-Free Variable-Length Denoising for Diffusion Large Language Models**](https://arxiv.org/abs/2508.00819) (2025.8, CUHK)
 - [**Empirical Analysis of Decoding Biases in Masked Diffusion Models**](https://arxiv.org/abs/2508.13021) (2025.8, Northeastern University, China)
+- [**Sequential Diffusion Language Models**](https://arxiv.org/abs/2509.24007) (2025.9, Shanghai AI Lab)
 - [**Self Speculative Decoding for Diffusion Large Language Models**](https://arxiv.org/abs/2510.04147) (2025.10, SJTU)
 - [**Beyond Confidence: Adaptive and Coherent Decoding for Diffusion Language Models**](https://arxiv.org/abs/2512.02044) (2025.11, CUHK)
 - [**TiDAR: Think in Diffusion, Talk in Autoregression**](https://arxiv.org/abs/2511.08923) (2025.11, Nvidia)
@@ -20,3 +21,5 @@
 - [**Sequential Diffusion Language Models**](https://arxiv.org/abs/2509.24007) (2025.12, WeChat)
 - [**WeDLM: Reconciling Diffusion Language Models with Standard Causal Attention for Fast Inference**](https://arxiv.org/abs/2512.22737) (2025.12, Shanghai AI Lab)
 - [**CD4LM: Consistency Distillation and aDaptive Decoding for Diffusion Language Models**](https://arxiv.org/abs/2601.02236) (2026.1, Princeton)
+- [**Streaming-dLLM: Accelerating Diffusion LLMs via Suffix Pruning and Dynamic Decoding**](https://arxiv.org/abs/2601.17917) (2026.1, Beijing Institute of Technology)
+- [**Focus-dLLM: Accelerating Long-Context Diffusion LLM Inference via Confidence-Guided Context Focusing**](https://arxiv.org/abs/2602.02159) (2026.2, Beihang University)

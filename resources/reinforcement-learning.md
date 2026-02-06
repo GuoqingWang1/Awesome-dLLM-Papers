@@ -9,3 +9,4 @@
 - [**SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models**](https://arxiv.org/abs/2510.09541) (2025.10, Meta SuperintelligenceLabs)
 - [**LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models**](https://arxiv.org/abs/2505.19223) (2025.10, RUC Gaoling)
 - [**d-TreeRPO: Towards More Reliable Policy Optimization for Diffusion Language Models**](https://arxiv.org/abs/2512.09675) (2025.12, THU)
+- [**Principled RL for Diffusion LLMs Emerges from a Sequence-Level Perspective**](https://arxiv.org/abs/2512.03759) (ICLR26, RUC gaoling)
