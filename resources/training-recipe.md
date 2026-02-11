@@ -20,3 +20,4 @@
 - [**Training Diffusion Language Models at Scale using Autoregressive Models**](https://arxiv.org/abs/2508.02193) (2025.10, Radical Numerics Inc)
 - [**SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation**](https://arxiv.org/abs/2510.06303) (2025.10, Shanghai AI Lab)
 - [**LLaDA2.0: Scaling Up Diffusion Language Models to 100B**](https://arxiv.org/abs/2512.15745) (2025.12, Ant Group)
+- [**LLaDA2.1: Speeding Up Text Diffusion via Token Editing**](https://arxiv.org/abs/2602.08676) (2026.2, Ant Group)
