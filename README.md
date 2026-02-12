@@ -39,7 +39,7 @@ If you find this repo helpful, please consider giving it a ⭐ — it helps othe
 | Category | Description | # |
 | :--- | :--- | :---: |
 | [📐 Theoretical Foundations](resources/theoretical-foundations.md) | Core theories of diffusion models for language | 3 |
-| [🤖 Models](resources/models.md) | Open source & closed source dLLM models | 20 |
+| [🤖 Models](resources/models.md) | Open source & closed source dLLM models | 21 |
 | [📋 Training Recipe](resources/training-recipe.md) | Pre-training & SFT strategies | 18 |
 | [🏗 Training Framework](resources/training-framework.md) | Training infrastructure & tools | 3 |
 | [🚀 Inference Framework](resources/inference-framework.md) | Inference optimization & KV cache | 6 |
