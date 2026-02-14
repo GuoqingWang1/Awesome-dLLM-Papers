@@ -62,6 +62,12 @@ We welcome contributions! Follow these steps:
 
 ---
 
+## 📜 License
+
+This project is released under the [MIT License](LICENSE).
+
+---
+
 ## 🌟 Star History
 
 <a href="https://star-history.com/#GuoqingWang1/Awesome-dLLM-Papers&Date">
