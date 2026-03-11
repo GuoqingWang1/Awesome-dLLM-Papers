@@ -41,9 +41,9 @@ If you find this repo helpful, please consider giving it a ⭐ — it helps othe
 | [📐 Theoretical Foundations](resources/theoretical-foundations.md) | Core theories of diffusion models for language | 3 |
 | [🤖 Models](resources/models.md) | Open source & closed source dLLM models | 21 |
 | [📋 Training Recipe](resources/training-recipe.md) | Pre-training & SFT strategies | 18 |
-| [🏗 Training Framework](resources/training-framework.md) | Training infrastructure & tools | 3 |
+| [🏗 Training Framework](resources/training-framework.md) | Training infrastructure & tools | 4 |
 | [🚀 Inference Framework](resources/inference-framework.md) | Inference optimization & KV cache | 6 |
-| [🎯 Decoding](resources/decoding.md) | Decoding strategies & algorithms | 23 |
+| [🎯 Decoding](resources/decoding.md) | Decoding strategies & algorithms | 25 |
 | [🎛 Controllable Generation](resources/controllable-generation.md) | Controllable text generation methods | 0 |
 | [🎓 Reinforcement Learning](resources/reinforcement-learning.md) | RL-based post-training methods | 10 |
 | [🔬 Theoretical Exploration](resources/theoretical-exploration.md) | Scaling laws & theoretical insights | 6 |
