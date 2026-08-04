@@ -77,3 +77,4 @@ This project is released under the [MIT License](LICENSE).
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=GuoqingWang1/Awesome-dLLM-Papers&type=Date" />
  </picture>
 </a>
+- **Fast-dLLM++: Fréchet Profile Decoding for Faster Diffusion LLM Inference** (2026) [[arXiv](https://arxiv.org/abs/2606.02955)] [[Code](https://github.com/Ringo-Star/FastdLLM_plusplus)] [[Project Page](https://ringo-star.github.io/projectpage_frechet/)]
