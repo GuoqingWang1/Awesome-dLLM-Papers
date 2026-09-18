@@ -44,7 +44,7 @@ If you find this repo helpful, please consider giving it a ⭐ — it helps othe
 | [🏗 Training Framework](resources/training-framework.md) | Training infrastructure & tools | 4 |
 | [🚀 Inference Framework](resources/inference-framework.md) | Inference optimization & KV cache | 6 |
 | [🎯 Decoding](resources/decoding.md) | Decoding strategies & algorithms | 25 |
-| [🎛 Controllable Generation](resources/controllable-generation.md) | Controllable text generation methods | 0 |
+| [🎛 Controllable Generation](resources/controllable-generation.md) | Controllable text generation methods | 1 |
 | [🎓 Reinforcement Learning](resources/reinforcement-learning.md) | RL-based post-training methods | 10 |
 | [🔬 Theoretical Exploration](resources/theoretical-exploration.md) | Scaling laws & theoretical insights | 6 |
 | [📦 Others](resources/others.md) | Multimodal, long context, etc. | 3 |
