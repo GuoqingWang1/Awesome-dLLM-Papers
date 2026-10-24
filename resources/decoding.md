@@ -9,7 +9,7 @@
 - [**Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking**](https://arxiv.org/abs/2505.24857) (NIPS 2025, FAIR)
 - [**Wide-In, Narrow-Out: Revokable Decoding for Efficient and Effective DLLMs**](https://arxiv.org/abs/2507.18578) (2025.7, SJTU)
 - [**Beyond Fixed: Training-Free Variable-Length Denoising for Diffusion Large Language Models**](https://arxiv.org/abs/2508.00819) (2025.8, CUHK)
-- [**Empirical Analysis of Decoding Biases in Masked Diffusion Models**](https://arxiv.org/abs/2508.13021) (2025.8, Northeastern University, China)
+- [**Empirical Analysis of Decoding Biases in Masked Diffusion Models**](https://arxiv.org/abs/2508.13021) (ACL 2026, Northeastern University, China)
 - [**Sequential Diffusion Language Models**](https://arxiv.org/abs/2509.24007) (2025.9, Shanghai AI Lab)
 - [**Self Speculative Decoding for Diffusion Large Language Models**](https://arxiv.org/abs/2510.04147) (2025.10, SJTU)
 - [**Beyond Confidence: Adaptive and Coherent Decoding for Diffusion Language Models**](https://arxiv.org/abs/2512.02044) (2025.11, CUHK)
